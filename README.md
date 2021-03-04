@@ -5,5 +5,5 @@
 열역학과 통계역학의 기초를 소개한다.
 
 ## 열 및 통계역학 1 (2021 Spring)
-1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/stat1/class.md
+1. 첫 번째 강의 https://github.com/bjmin/bmin_statmech/blob/master/stat1/logistic_map.ipynb
 
