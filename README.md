@@ -6,7 +6,8 @@
 
 ## 열 및 통계역학 1 (2021 Spring)
 
-1.
+*
 
 ## Homework
 
+1. https://github.com/bjmin/bmin_statmech/blob/master/homework/stat1/assignment1.ipynb
