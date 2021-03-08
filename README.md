@@ -5,7 +5,8 @@
 열역학과 통계역학의 기초를 소개한다.
 
 ## 열 및 통계역학 1 (2021 Spring)
-1. Logistic Map (sensitive dependence on initial conditions): https://github.com/bjmin/bmin_statmech/blob/master/stat1/logistic_map.ipynb
+
+1.
 
 ## Homework
 
