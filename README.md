@@ -7,3 +7,5 @@
 ## 열 및 통계역학 1 (2021 Spring)
 1. Logistic Map (sensitive dependence on initial conditions): https://github.com/bjmin/bmin_statmech/blob/master/stat1/logistic_map.ipynb
 
+## Homework
+
