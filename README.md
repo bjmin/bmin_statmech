@@ -11,3 +11,4 @@
 ## Homework
 
 1. https://github.com/bjmin/bmin_statmech/blob/master/homework/stat1/assignment1.ipynb
+2. https://github.com/bjmin/bmin_statmech/blob/master/homework/stat1/assignment2.ipynb
