@@ -6,4 +6,4 @@
 
 ## 열 및 통계역학 (2021)
 
-* Monrw-Carlo Simulations: 
+* Monte-Carlo Simulations: 
